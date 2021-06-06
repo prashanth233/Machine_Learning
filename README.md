@@ -1,9 +1,8 @@
 # Pattern Recognition and Machine-Learning, IIT Madras, spring 2021.
 
-[LIFE IN LOWER DIMENSIONS...] You are provided with a dataset of 1797 images in a
-folder - each image is 8x8 pixels and provided as a feature vector of length 64. You will try
-your hands at transforming this dataset to a lower-dimensional space, and clustering the images in
-this reduced space.
+# PRML Data Contest 2021
+Here you will build recommendation models for a Music Platform and try to predict what ratings customers will assign to songs. You can use all the extra information provided, such as customers's previous rating scores, his/her list of songs saved for listening in future, labels assigned to songs etc.
 
-Write the code from scratch for both PCA and clustering. The only exception is the computation of
-eigenvalues and eigenvectors for which you could use the numpy in-bulit function.
+Dataset contains ~1.3million ratings, split into about 700k training and 600k test ratings. There are about 14k distinct customers and 10k distinct songs. This dataset is derived from a real world scenario; so take care of sanitizing/handling real data.
+
+Use the data in creative ways to come up a ML model that predicts customers rating scores for songs Supervised data is available about customer's preferences in train.csv
