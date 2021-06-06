@@ -1,4 +1,4 @@
-# Pattern Recognition and Machine-Learning, IIT Madras, spring 2021.
+# Pattern Recognition and Machine Learning, IIT Madras, spring 2021.
 
 ## PRML Data Contest 2021 
 Here you will build recommendation models for a Music Platform and try to predict what ratings customers will assign to songs. You can use all the extra information provided, such as customers's previous rating scores, his/her list of songs saved for listening in future, labels assigned to songs etc.
