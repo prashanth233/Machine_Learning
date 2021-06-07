@@ -1,4 +1,4 @@
-# PRML PCA and Clustering Algorithm.
+# PRML - PCA and Clustering Algorithm.
 
 [LIFE IN LOWER DIMENSIONS...] You are provided with a dataset of 1797 images in a
 folder - each image is 8x8 pixels and provided as a feature vector of length 64. You will try
